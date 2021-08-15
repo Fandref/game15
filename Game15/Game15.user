@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Overlays\ChangeSize.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Overlays\ResultList.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Overlays\Winner.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Game.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Pages\Start.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Overlays\ChangeSize.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Overlays\ResultList.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Overlays\Winner.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Game.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Pages\Start.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

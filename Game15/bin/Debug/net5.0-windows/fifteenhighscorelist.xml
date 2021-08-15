@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<ArrayOfResultItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ResultItem>
+    <size>3</size>
+    <result>
+      <Minutes>0</Minutes>
+      <Seconds>5</Seconds>
+      <Miliseconds>32</Miliseconds>
+    </result>
+  </ResultItem>
+  <ResultItem>
+    <size>4</size>
+    <result>
+      <Minutes>0</Minutes>
+      <Seconds>39</Seconds>
+      <Miliseconds>355</Miliseconds>
+    </result>
+  </ResultItem>
+  <ResultItem>
+    <size>5</size>
+    <result>
+      <Minutes>0</Minutes>
+      <Seconds>0</Seconds>
+      <Miliseconds>0</Miliseconds>
+    </result>
+  </ResultItem>
+</ArrayOfResultItem>

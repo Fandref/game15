@@ -1,0 +1,11 @@
+E:\Liza\Test\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\Game15.csprojAssemblyReference.cache
+E:\Liza\Test\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\MainWindow.g.cs
+E:\Liza\Test\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\Overlays\ChangeSize.g.cs
+E:\Liza\Test\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\Overlays\ResultList.g.cs
+E:\Liza\Test\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\Overlays\Winner.g.cs
+E:\Liza\Test\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\Pages\Game.g.cs
+E:\Liza\Test\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\Pages\Start.g.cs
+E:\Liza\Test\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\Widgets\Timer.g.cs
+E:\Liza\Test\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\App.g.cs
+E:\Liza\Test\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\Game15_MarkupCompile.cache
+E:\Liza\Test\WpfApp1\WpfApp1\obj\Debug\net5.0-windows\Game15_MarkupCompile.lref

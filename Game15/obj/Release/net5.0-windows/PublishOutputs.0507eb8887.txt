@@ -1,0 +1,5 @@
+E:\Liza\Test\WpfApp1\WpfApp1\publish\WpfApp1.exe
+E:\Liza\Test\WpfApp1\WpfApp1\publish\WpfApp1.dll
+E:\Liza\Test\WpfApp1\WpfApp1\publish\WpfApp1.deps.json
+E:\Liza\Test\WpfApp1\WpfApp1\publish\WpfApp1.runtimeconfig.json
+E:\Liza\Test\WpfApp1\WpfApp1\publish\WpfApp1.pdb

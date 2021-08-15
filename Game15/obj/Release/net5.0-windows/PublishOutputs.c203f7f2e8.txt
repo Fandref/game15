@@ -1,0 +1,5 @@
+E:\Liza\Game15\WpfApp1.exe
+E:\Liza\Game15\WpfApp1.dll
+E:\Liza\Game15\WpfApp1.deps.json
+E:\Liza\Game15\WpfApp1.runtimeconfig.json
+E:\Liza\Game15\WpfApp1.pdb
